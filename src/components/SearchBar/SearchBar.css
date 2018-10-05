@@ -1,0 +1,15 @@
+.form {
+    margin-top: 3px;
+    color: mintcream;
+    /* font-family: 'Open Sans', sans-serif; */
+    font-family: 'Raleway', sans-serif;
+}
+
+.input {
+    width: 32%;
+}
+
+#searchButton {
+    height: 100%;
+    width: 100%;
+}

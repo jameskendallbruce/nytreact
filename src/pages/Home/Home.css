@@ -1,0 +1,11 @@
+/* body {
+  background-color:mintcream;
+} */
+
+body {
+  background: url("../../images/nytDark.jpg");
+  align-content: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
